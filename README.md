@@ -5,6 +5,7 @@
  problem solver, military forged, enquisitive, driven, family man, dad jokes, too many hobbies, leave it better than when you found it
 #
 ## Skills
+
 - AppVeyor
 - Azure
 - Bash ❤️
@@ -21,6 +22,13 @@
 - Splunk
 - Terraform
 - T-SQL
+
+ <style>
+      ul {
+        columns: 3;
+      }
+    </style>
+
 
 #
 ## Certificates
