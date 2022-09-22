@@ -23,13 +23,6 @@
 - Terraform
 - T-SQL
 
- <style>
-      ul {
-        columns: 3;
-      }
-    </style>
-
-
 #
 ## Certificates
 
