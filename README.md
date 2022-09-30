@@ -2,7 +2,7 @@
 
 ## Short and sweet
 
- problem solver, military forged, enquisitive, driven, family man, dad jokes, too many hobbies, leave it better than when you found it
+ problem solver, military forged, inquisitive, driven, family man, dad jokes, too many hobbies, leave it better than when you found it
 #
 ## Skills
 
